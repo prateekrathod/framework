@@ -1,0 +1,5 @@
+username;password;expected_error
+
+pratik;pratik243;Invalid credentials
+
+prem;prem243;Invalid credentials
